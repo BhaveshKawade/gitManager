@@ -39,5 +39,3 @@ $.ajax({
 	fun();
 
 </script>
-after fetaure 1 feature 2 has been added.
-hey feature3 here.
