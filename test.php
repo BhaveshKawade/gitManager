@@ -40,3 +40,4 @@ $.ajax({
 
 </script>
 This is for first feature
+This is for second feature
