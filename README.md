@@ -1,0 +1,2 @@
+# gitManager
+testing git 
