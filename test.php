@@ -42,3 +42,4 @@ $.ajax({
 This is for first feature
 This is for second feature
 This is for first commit after merge originmaster
+this is for second commit after merge 
